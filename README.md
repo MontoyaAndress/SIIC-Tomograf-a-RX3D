@@ -38,8 +38,6 @@ Fui el **desarrollador backend principal** del proyecto (trabajando en solitario
 | Arquitectura | API REST |
 
 
-<img width="800" height="400" alt="Captura de pantalla 2026-09-28 133556" src="https://github.com/user-attachments/assets/2fb0dd90-ece3-4694-a3be-cde26f54ff3e" />
-
 ## 📸 Capturas de pantalla
 
 <table>
@@ -56,8 +54,8 @@ Fui el **desarrollador backend principal** del proyecto (trabajando en solitario
     <td align="center"><b>Login paciente</b></td>
   </tr>
   <tr>
-    <td><img src="assets/login-profesional.png" width="250"></td>
-    <td><img src="assets/login-paciente.png" width="250"></td>
+    <td align="center"><img src="assets/login-profesional.png" width="250"></td>
+    <td align="center"><img src="assets/login-paciente.png" width="250"></td>
   </tr>
 </table>
 
